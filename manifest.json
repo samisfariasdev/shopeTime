@@ -1,0 +1,18 @@
+{
+    "manifest_version":2,
+    "name": "Shope time",
+    "version": "1.0",
+    "author" : "Samis Farias",
+    "description": " Una Extension que te permite checkear un producto en Facebook Marketplace remotamente",
+    "icons": {
+        "16": "16.png",
+        "48":"48.png",
+        "128":"128.png"
+    },
+    "browser_action": {
+"default_icon":"16.png",
+"default_popup" : "mensaje.html",
+"default_tittle" : "Shope Time"
+    } 
+}
+
